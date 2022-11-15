@@ -1,11 +1,18 @@
 # IBM-Project-30236-1660142358
 Personal Expense Tracker Application
+
+
 Team ID: PNT2022TMID23145
-Team Members:
+ 
+ 
+ Team Members:
      - Lavanya B H
      -Lakshmi Priya G
      -Nithisha V
      -Ragasruthi J
+
+
+
 Abstract:
     
 In simple words, personal finance entails all the financial decisions and activities that a Finance app makes your life easier by helping you to manage your finances efficiently. A personal finance app will not only help you with budgeting and accounting but also give you helpful insights about money management.
